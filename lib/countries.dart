@@ -4805,7 +4805,7 @@ const List<Country> countries = [
     code: "NC",
     dialCode: "687",
     minLength: 6,
-    maxLength: 6,
+    maxLength: 8,
   ),
   Country(
     name: "New Zealand",
