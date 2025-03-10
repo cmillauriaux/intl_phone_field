@@ -2325,7 +2325,7 @@ const List<Country> countries = [
     code: "PF",
     dialCode: "689",
     minLength: 6,
-    maxLength: 6,
+    maxLength: 8,
   ),
   Country(
     name: "French Southern Territories",
